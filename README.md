@@ -1,2 +1,2 @@
 # Discord
-Bases de Discord
+BOT BASE
